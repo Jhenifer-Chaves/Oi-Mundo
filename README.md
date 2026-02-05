@@ -1,2 +1,4 @@
-# Oi-Mundo
-Meu primeiro repositório teste
+# Oi, Mundo!
+Meu primeiro repositório versionado - teste
+
+Repositório criado para teste
